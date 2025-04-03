@@ -1,0 +1,7 @@
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\bin\Debug\Projekt Buchhaltung.exe.config
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\bin\Debug\Projekt Buchhaltung.exe
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\bin\Debug\Projekt Buchhaltung.pdb
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\obj\Debug\Projekt Buchhaltung.csproj.AssemblyReference.cache
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\obj\Debug\Projekt Buchhaltung.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\obj\Debug\Projekt Buchhaltung.exe
+C:\Users\Anwender\source\repos\Projekt Buchhaltung\Projekt Buchhaltung\obj\Debug\Projekt Buchhaltung.pdb
