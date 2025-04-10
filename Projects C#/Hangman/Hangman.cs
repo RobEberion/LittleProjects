@@ -255,14 +255,14 @@ namespace Projektsammlung.Spiele
             static void PrintHead()
             {
                 Console.WriteLine("|---------------------------|");
-//                Console.Write("| O(^-^)=O ");
-//                Console.ForegroundColor = ConsoleColor.Red;
-//                Console.Write("HANGMAN");
-//                Console.ResetColor();
-//                Console.WriteLine(" O=(-.-)O |");
-//                Console.WriteLine("|---------------------------|");
-//                Console.WriteLine();
-//            }
-//        }
-//    }
-//}
+                Console.Write("| O(^-^)=O ");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write("HANGMAN");
+                Console.ResetColor();
+                Console.WriteLine(" O=(-.-)O |");
+                Console.WriteLine("|---------------------------|");
+                Console.WriteLine();
+            }
+        }
+    }
+}
